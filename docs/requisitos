@@ -1,0 +1,44 @@
+Sistema para tomar pruebas online.
+
+Administración de cursos, alumnos y pruebas.
+
+Pruebas.
+	Todo tipo de preguntas.
+		V o F
+		Selección
+		Selección múltiple
+		Ordenar elementos
+		Términos cruzados
+		Desarrollo
+		Dibujar
+	Las preguntas debe poder mostrar imágenes, videos, etc.
+	Cálculo de puntaje. (Cuando se pueda)
+	** Más preguntas de las que se le presentan al alumno para permitir la variabilidad.
+	Estadísticas.
+
+Revisión de preguntas de desarrollo.
+	Detección de palabras y frases clave
+	Ignorar faltas de ortografía
+	Entregar % de cercanía de la respuesta.
+
+Anti copia
+	Pruebas ejecutadas solo en pantalla completa del navegador
+	Detectar si el navegador pierde el foco cuando se toma la prueba (Warnings y aviso al administrador)
+	Presentar las preguntas en orden aleatorio
+	Cambiar color de fondo por pregunta.
+	Cambiar tamaño y fuente por pregunta.
+	Otros cambios sutiles que no permitan identificar las preguntas.
+
+Social.
+	Compartir pruebas. Por categoría y tema.
+	Compartir preguntas.
+	
+
+Rendición de pruebas.
+	Las pruebas solo pueden ser respondidas en un periodo de tiempo.
+	Solo alumnos del curso podrán tomar las pruebas.
+	Se le enviará un enlace temporal para tomar la prueba.
+	Mensaje inicial con "compromiso de honor"
+
+
+	
